@@ -1,0 +1,54 @@
+
+[
+	{
+		"bornTime" : 5,
+		"code" : 9003001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66304002
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 9004001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66305002
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20802001,
+		"maxLife" : 8000,
+		"noticeSec" : 1,
+		"noticeText" : "兄弟们，给我上",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66201001
+	},
+	
+	{
+		"code" : 20802003,
+		"decLife" : 1000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "随机陷阱",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66302001
+	},
+	
+	{
+		"code" : 20802004,
+		"decLife" : 1000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "十字陷阱",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66303001
+	}
+	
+]
